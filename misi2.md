@@ -61,7 +61,8 @@
 - Tabel fakta menggabungkan informasi dari dimensi-dimensi terkait.
 
 ### 3. Star Schema
-- Setiap tabel dimensi terhubung langsung ke tabel fakta.
+![Diagram Gudang Data](https://github.com/mine2710/Tubes-Data-Warehouse/blob/main/fix.drawio.png)
+Skema ini mendukung analisis data yang efisien karena setiap tabel dimensi dihubungkan langsung dengan tabel fakta tanpa adanya hierarki yang kompleks, yang membuatnya lebih mudah untuk melakukan query analitik
 
 ### 4. ETL Logical Planning
 - **Extract:** Data diambil dari Kaggle (CSV).  
