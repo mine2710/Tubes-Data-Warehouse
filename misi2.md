@@ -1,3 +1,9 @@
+# LAPORAN MISI KEDUA PERGUDANGAN DATA
+
+
+## FASHION RETAIL SALES
+
+**Perancangan dan Implementasi Gudang Data: Studi Kasus Penjualan Ritel Fashion**
 ## A. Ringkasan Kebutuhan dari Misi
 
 ### 1. Kebutuhan Bisnis
