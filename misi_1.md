@@ -52,8 +52,7 @@ Solusi yang diusulkan:
 
 
 ## C. Fakta & Dimensi
-![Diagram Gudang Data](https://github.com/username/Tubes-Data-Warehouse/raw/main/fix.drawio.png)
-
+![Diagram Gudang Data](https://github.com/mine2710/Tubes-Data-Warehouse/blob/main/fix.drawio.png)
 ### Tabel Dimensi
 
 | Tabel Dimensi | Atribut               | Deskripsi                            |
